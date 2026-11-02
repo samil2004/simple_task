@@ -1,0 +1,11 @@
+student_id,name,age,gender,department,marks,attendance,city,grade,result,attendance_status
+1,Arun,21.0,Male,CSE,85.0,90.0,Tirur,B,Pass,Good
+2,Anu,22.0,Female,IT,78.0,85.0,Malappuram,C,Pass,Good
+3,Rahul,,Male,CSE,92.0,,Kochi,A,Pass,Not Available
+4,Meera,21.0,Female,EEE,,88.0,Tirur,Not Available,Not Available,Good
+5,John,23.0,Male,IT,65.0,75.0,,D,Pass,Good
+6,Sara,22.0,Female,CSE,89.0,95.0,Kochi,B,Pass,Good
+7,Akash,,Male,EEE,72.0,,,C,Pass,Not Available
+8,Diya,20.0,Female,IT,,80.0,Calicut,Not Available,Not Available,Good
+9,Adil,21.0,Male,CSE,95.0,92.0,Malappuram,A,Pass,Good
+10,Neha,22.0,Female,EEE,81.0,87.0,,B,Pass,Good

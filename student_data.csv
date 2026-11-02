@@ -1,0 +1,11 @@
+student_id,name,age,gender,department,marks,attendance,city
+1,Arun,21,Male,CSE,85,90,Tirur
+2,Anu,22,Female,IT,78,85,Malappuram
+3,Rahul,,Male,CSE,92,,Kochi
+4,Meera,21,Female,EEE,,88,Tirur
+5,John,23,Male,IT,65,75,
+6,Sara,22,Female,CSE,89,95,Kochi
+7,Akash,,Male,EEE,72,,
+8,Diya,20,Female,IT,,80,Calicut
+9,Adil,21,Male,CSE,95,92,Malappuram
+10,Neha,22,Female,EEE,81,87,
